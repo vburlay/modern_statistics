@@ -3,3 +3,4 @@ title: "stats_ch02_what_are_data"
 format: html
 ---
 
+## Input
